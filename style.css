@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.first-container{
+    width: 100%;
+    height: 570px;
+    background-color:#f4f4f4;
+}
+
+.head{
+    width: 75%;
+    margin: auto;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.head img{
+    width: 150px;
+}
+
+.head a{
+    color: black;
+}
+
+header h1{
+    font-size: 50px;
+    margin: 0;
+}
+
+header #course{
+    margin: -5px;
+}
+
+.paragraph{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.paragraph02{
+    margin: -23px;
+}
+
+.first-section button{
+    background-color: black;
+    color: white;
+    border: none;
+    height: 45px;
+    width: 170px;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.second-section img{
+    width: 50px;
+}
+
+.second-section p{
+    font-size: 30px;
+}
+
+.second-section .quoter{
+    font-size: 20px;
+    font-weight: bold;
+    color: #d3cfcf;
+    padding-top: 25px;
+}
+
+.third-section h4{
+    color: #d3cfcf;
+}
+
+.third-section h1{
+    font-size: 40px;
+}
+
+.third-section .h1-02{
+    margin-top: -35px;
+}
+
+.third-section p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #aca9a9;
+}
+
+.p-02{
+    margin-top: -18px;
+}
+
+.icon{
+    width: 45px;
+}
+
+.subsection{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    align-items: flex-start;
+}
+
+.subsection .text{
+    margin-top: -20px;
+    margin-right: 25px;
+}
+
+.subsection h2{
+    font-size: 30px;
+}
+
+.section-02 img{
+    width: 400px;
+}
+
+.third-section{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin: auto;
+    align-items: center;
+}
+
+.fourth-section{
+    display: flex;
+    justify-content: space-between;
+    width: 75%;
+    margin: auto;
+}
+
+.fourth-section p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #aca9a9;
+}
+
+footer p{
+    color: #d3cfcf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer a{
+    color: #d3cfcf;
+}
